@@ -8,7 +8,7 @@ For educational purposes, here's a contract that executes:
 4. Repays the flash loan using gains from 'interacting' with Project X
 5. Now just sit back and wait for the insurance payout from Cover Protocol
 6. Then you can philanthropically return surplus 'interaction' funds back to Project X
-7. Ask Project X for grey hat bounty
+7. [optional] Ask Project X for grey hat bounty
 
 Note:
 - Any references to existing projects are for demonstration purposes only
