@@ -2,9 +2,9 @@
 
 For educational purposes, here's a contract that executes a single atomic transaction whereby it:
 
-1. Executes a DAI/WETH batch flashloan on Aave V2
+1. Executes a DAI/sUSD batch flashloan on Aave V2
 2. Uses DAI batch to short the SC security of Project X by buying up hack insurance from Cover Protocol
-3. Uses WETH batch to 'interact' with Project X
+3. Uses sUSD batch to 'interact' with Project X
 4. Repays the flash loan using gains from 'interacting' with Project X
 
 - After that you sit back and wait for the insurance payout from Cover Protocol
