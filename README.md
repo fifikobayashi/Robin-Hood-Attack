@@ -3,7 +3,7 @@
 For educational purposes, here's a contract that executes:
 
 1. A DAI/sUSD batch flashloan on Aave V2
-2. Uses DAI batch to short the SC security of Project X by buying up hack insurance from Cover Protocol
+2. Uses DAI batch to short the smart contract security of Project X by buying up hack insurance from Cover Protocol
 3. Uses sUSD batch to 'interact' with Project X
 4. Repays the flash loan using gains from 'interacting' with Project X
 5. Sit back and wait for the insurance payout from Cover Protocol
