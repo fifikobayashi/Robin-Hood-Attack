@@ -13,7 +13,7 @@ For educational purposes, here's a contract that executes:
 Note:
 - Any references to existing projects are for demonstration purposes only
 - Probably more efficient if this is flashmint powered
-- Don't try and run this in prod, I left out a few things
+- Don't try and run this in prod
 
 An end to end atomic execution of this contract looks [like this on kovan](https://kovan.etherscan.io/tx/0xf82fbf1a79c12175aecf904422df35c430d5c12e71b4a44c0536c6d614a8ec4f).
 
