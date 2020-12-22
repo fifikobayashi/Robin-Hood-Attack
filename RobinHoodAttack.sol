@@ -112,6 +112,9 @@ contract RobinHoodAttack is FlashLoanReceiverBase, Ownable {
         );
     }
     
+    /**
+    * Magic
+    **/
     function interactWithProjectX(uint _sUSDAmount) public payable {
         
         /*
