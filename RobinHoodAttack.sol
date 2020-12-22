@@ -15,7 +15,7 @@ import "Ownable.sol";
 /*
 * A contract that executes the following logic in a single atomic transaction:
 *
-*   1. Executes a DAI/WETH batch flashloan on Aave
+*   1. Executes a DAI/sUSD batch flashloan on Aave
 *   2. Uses DAI batch to short the SC security of Project X by buying up hack insurance from Cover Protocol
 *   3. Uses sUSD batch to 'interact' with Project X
 *   4. Repays the flash loan using gains from 'interacting' with Project X
