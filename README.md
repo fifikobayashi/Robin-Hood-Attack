@@ -16,6 +16,6 @@ Note:
 - Probably more efficient if this is flashmint powered
 - Don't run this in prod
 
-A successful execution of this contract looks [like this on kovan](https://kovan.etherscan.io/tx/0xf82fbf1a79c12175aecf904422df35c430d5c12e71b4a44c0536c6d614a8ec4f).
+An end to end execution of this contract looks [like this on kovan](https://kovan.etherscan.io/tx/0xf82fbf1a79c12175aecf904422df35c430d5c12e71b4a44c0536c6d614a8ec4f).
 
 ![](https://github.com/fifikobayashi/Robin-Hood-Attack/blob/main/execution.PNG)
